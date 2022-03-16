@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Artur Barbosa
-- 👀 I’m interested in Python/Django, JS/React, HTML/CSS and SQL
-- 🌱 I’m currently learning React and Django
-- 💞️ I’m looking to collaborate on any Python, HTML/CSS project
+- 👀 I’m interested in Python, Node.js, MongoDB and SQL
+- 🌱 I’m currently learning scikit-learn, Django and Java
+- 💞️ I’m looking to collaborate on any Python or Database project
 - 📫 How to reach me: Ping me here or on fxbrartur@gmail.com
 
 <!---
