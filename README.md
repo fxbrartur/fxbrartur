@@ -1,7 +1,7 @@
 ### Hey y'all 👋
 I'm a Software Engineer from Brazil
 
-📊 Working on a Mobile Measurement Partner and Analytics company
+📊 Working on a Mobile Measurement and Analytics company
 
 🐍 Participated in some open-source Python projects
 <br>
