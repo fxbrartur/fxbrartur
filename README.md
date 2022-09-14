@@ -39,3 +39,6 @@ I'm a Software Engineer from Brazil
 <img align="left" alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 <br>
 <br>
+
+## Github Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=fxbrartur&theme=dark">
