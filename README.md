@@ -41,5 +41,5 @@ I'm a Software Engineer from Brazil
 <br>
 
 ## Github Statistics
-<img width="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=fxbrartur&theme=dark&hide_border=true">
-<img width="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxbrartur&langs_count=10&layout=compact&theme=dark&hide_border=true">
+<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=fxbrartur&theme=dark">
+<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxbrartur&langs_count=10&layout=compact&theme=dark">
