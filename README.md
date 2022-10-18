@@ -1,5 +1,5 @@
 ### Hey y'all 👋
-I'm a Software Engineer from Brazil
+I'm a Software Developer from Brazil
 
 📊 Working on a Mobile Measurement and Analytics company
 
