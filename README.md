@@ -1,7 +1,7 @@
 ### Hey y'all 👋
 I'm a Software Developer from Brazil
 
-📊 Working on a Mobile Measurement and Analytics company
+📊 Working on an Adtech - MMP and Analytics company
 
 🐍 Participated in some open-source Python projects
 <br>
