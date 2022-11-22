@@ -6,7 +6,6 @@ I'm a Software Developer from Brazil
 📊 Working on an Adtech - MMP and Analytics company
 
 🐍 Participated in some open-source Python projects
-  
 <br>
 
 ## Reach me
