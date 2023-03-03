@@ -18,17 +18,13 @@ I'm a Software Developer from Brazil
 <img align="center" alt="python" src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-<img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <br>
 <br>
 
-## Frameworks and Packages/SDKs
+## Frameworks
 <img align="center" alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img align="center" alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-<img align="center" alt="Requests" src="https://img.shields.io/badge/Requests-777BB4?style=for-the-badge&ogo=requests&logoColor=black">
-<img align="center" alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-DCDCDC?style=for-the-badge&ogo=soup&logoColor=black">
 <br>
 <br>
 
