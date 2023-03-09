@@ -1,9 +1,12 @@
 <div align="center">
 
 ### Hey y'all 👋
-I'm a Software Developer from Brazil
 
-📊 Working on an Adtech - MMP and Analytics company
+Software Developer at DWM Software
+
+Systems Integration Specialist at Namirial S.p.A.
+  
+TAM at Adjust GmbH
 
 🐍 Participating in some open-source Python projects
 <br>
