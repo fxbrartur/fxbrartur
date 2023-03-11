@@ -4,7 +4,7 @@
 
 Software Developer at DWM Software
 
-Systems Integration Specialist at Namirial S.p.A.
+Systems Integration Consultant at Namirial S.p.A.
   
 TAM at Adjust GmbH
 
