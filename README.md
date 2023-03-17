@@ -2,11 +2,7 @@
 
 ### Hey y'all 👋
 
-Software Developer at DWM Software
-
-Systems Integration Consultant at Namirial S.p.A.
-  
-TAM at Adjust GmbH
+Software Engineer at DWM Software
 
 🐍 Participating in some open-source Python projects
 <br>
