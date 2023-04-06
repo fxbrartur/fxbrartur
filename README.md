@@ -2,7 +2,7 @@
 
 ### Hey y'all 👋
 
-💻 Founder & Software Engineer at [DWM Software](https://dwmsoftware.com/)
+💻 Software Engineer at [DWM Software](https://dwmsoftware.com/)
 
 🐍 Participating in some open-source Python projects
 <br>
