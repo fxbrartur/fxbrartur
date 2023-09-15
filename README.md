@@ -14,6 +14,7 @@
 
 ## Programming Languages
 <img align="center" alt="python" src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="center" alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <br>
