@@ -2,9 +2,8 @@
 
 ### Hey y'all 👋
 
-💻 Software Engineer at [DWM Software](https://dwmsoftware.com/)
+💻 Full Stack Developer at [DWM Software](https://dwmsoftware.com/)
 
-🐍 Participating in some open-source Python projects
 <br>
 
 ## Reach me
