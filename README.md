@@ -3,7 +3,7 @@
 ### Hey y'all 👋
 
 💻 Full Stack Developer & Founder at [DWM Software](https://dwmsoftware.com/)
-<i class="fa-solid fa-fingerprint"></i> Developed a biometric authentication app, now utilized by millions worldwide.
+👁‍🗨 Developed a biometric authentication app, now utilized by millions worldwide.
 
 <br>
 
