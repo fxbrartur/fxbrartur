@@ -2,7 +2,7 @@
 
 ### Hey y'all 👋
 
-💻 Lead Engineer & Founder at [DWM Software](https://dwmsoftware.com/)
+💻 Lead Engineer at [DWM Software](https://dwmsoftware.com/)
 
 👁‍🗨 Creator of a biometric authentication app, now utilized by millions worldwide.
 
