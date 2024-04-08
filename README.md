@@ -2,7 +2,7 @@
 
 ### Hey y'all 👋
 
-💻 Lead Engineer at [DWM Software](https://dwmsoftware.com/)
+💻 Director of Engineering at [Toptal](https://www.toptal.com/)
 
 👁‍🗨 Creator of a biometric authentication app, now utilized by millions worldwide.
 
