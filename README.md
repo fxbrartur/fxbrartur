@@ -2,7 +2,7 @@
 
 ### Hey y'all 👋
 
-💻 Software Engineer at [Toptal](https://www.toptal.com/)
+💻 Software Engineer with client-facing skills [BioCatch](https://www.biocatch.com/)
 
 👁‍🗨 Creator of a biometric authentication app, now utilized by millions worldwide.
 
