@@ -2,7 +2,7 @@
 
 ### Hey y'all 👋
 
-💻 Software Engineer with client-facing skills at [BioCatch](https://www.biocatch.com/)
+💻 Software Engineer 
 
 👁‍🗨 Creator of a biometric authentication app, now utilized by millions worldwide.
 
