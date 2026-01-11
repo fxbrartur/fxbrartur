@@ -8,7 +8,7 @@
 
 ☸️ Kubernetes & Orchestration Fan
 
-</> Strong backend and mobile experience
+</> Strong Backend and Mobile experience
 
 <br>
 
