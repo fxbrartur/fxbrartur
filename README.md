@@ -5,7 +5,9 @@
 💻 Software Engineer & Solutions Architect
 
 👁‍🗨 Creator of a biometric authentication app, now utilized by millions worldwide
+
 ☸️ Kubernetes & Orchestration Fan
+
 </> Strong backend and mobile experience
 
 <br>
